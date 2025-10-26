@@ -8,8 +8,8 @@
 }
 
 html {
-  scroll-behavior: smooth; /* optional for smooth scroll */
-  scroll-padding-top: 71px; /* same as your navbar height */
+  scroll-behavior: smooth;
+  scroll-padding-top: 71px;
 }
 
 *{
